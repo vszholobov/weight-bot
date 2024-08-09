@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: weight-bot
+
+telegram:
+  botName: weight-bot
+  token: ${TELEGRAM_TOKEN}
